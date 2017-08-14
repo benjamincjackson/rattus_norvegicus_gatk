@@ -1,0 +1,13 @@
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2051945.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2051946.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2051947.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2051948.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2051949.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2052187.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2052188.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2052189.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2052190.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2052602.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2052603.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2052604.merged.sorted.bam
+nice -n 19 ./run_mark_duplicates.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/SAMEA2052605.merged.sorted.bam

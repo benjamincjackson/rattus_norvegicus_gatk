@@ -2,7 +2,7 @@
 # of input BAM files to pass to picardtools differs between samples
 
 # get the samples:
-grep 'norvegicus' /localdisk/home/bjackso4/rattus_norvegicus_FASTQ/sample_file_table.txt |\
+grep 'norvegicus\|rattus' /localdisk/home/bjackso4/rattus_norvegicus_FASTQ/sample_file_table.txt |\
   cut -f2 | sort | uniq | {
 	while read SAMPLE
 		do
@@ -22,6 +22,7 @@ grep 'norvegicus' /localdisk/home/bjackso4/rattus_norvegicus_FASTQ/sample_file_t
 			echo -e "OUTPUT=/localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/${SAMPLE}.merged.sorted.bam \\" >> run_${SAMPLE}.sh
 			echo -e "SORT_ORDER=coordinate \\" >> run_${SAMPLE}.sh
 			echo -e "USE_THREADING=true \\" >> run_${SAMPLE}.sh
+			echo -e "CREATE_INDEX=true \\" >> run_${SAMPLE}.sh
 			echo -e "2>/localdisk/home/bjackso4/rattus_norvegicus_GATK/2_sort_merge_out/${SAMPLE}.merged.sorted.bam.err" >> run_${SAMPLE}.sh
 			echo -e "rm -rf /localdisk/home/bjackso4/tmp/${SAMPLE}" >> run_${SAMPLE}.sh
 		done

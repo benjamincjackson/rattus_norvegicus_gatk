@@ -1,3 +1,3 @@
 # bwa takes ~6GB memory per run? Try running 20 at once?
 
-parallel -j25 :::: commands.txt
+parallel -j12 :::: commands_rattus.txt

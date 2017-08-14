@@ -1,0 +1,1 @@
+./run_mapping.sh /localdisk/home/bjackso4/rattus_norvegicus_reference/rn6.fa ERR316424_1.stripped.fastq.gz ERR316424_2.stripped.fastq.gz ERR316424 7098529 SAMEA2052602 ERR316424.bam
