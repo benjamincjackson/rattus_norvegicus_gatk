@@ -1,0 +1,2 @@
+nice -n 19 /localdisk/home/bjackso4/rattus_norvegicus_GATK/5_combineGVCFs/run_combineGVCFs.sh gVCF_paths.Rn.chr20.list
+nice -n 19 /localdisk/home/bjackso4/rattus_norvegicus_GATK/5_combineGVCFs/run_combineGVCFs.sh gVCF_paths.Rr.chr20.list

@@ -1,0 +1,3 @@
+nice -n 19 /localdisk/home/bjackso4/rattus_norvegicus_GATK/6_genotypeGVCFs/run_genotypeGVCFs.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/5_combineGVCFs_out/chrX.Rn.combined.g.vcf.gz
+nice -n 19 /localdisk/home/bjackso4/rattus_norvegicus_GATK/6_genotypeGVCFs/run_genotypeGVCFs.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/5_combineGVCFs_out/chrX.Rr.combined.g.vcf.gz
+nice -n 19 /localdisk/home/bjackso4/rattus_norvegicus_GATK/6_genotypeGVCFs/run_genotypeGVCFs.sh /localdisk/home/bjackso4/rattus_norvegicus_GATK/5_combineGVCFs_out/chrY.Rn.combined.g.vcf.gz

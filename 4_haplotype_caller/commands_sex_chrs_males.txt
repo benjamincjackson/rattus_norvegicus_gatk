@@ -1,0 +1,8 @@
+nice -n 19 ./run_haplotype_caller_ploidy_1.sh	/localdisk/home/bjackso4/rattus_norvegicus_GATK/3_mark_duplicates_out/SAMEA2051948.merged.sorted.dedupped.bam	SAMEA2051948	chrX
+nice -n 19 ./run_haplotype_caller_ploidy_1.sh	/localdisk/home/bjackso4/rattus_norvegicus_GATK/3_mark_duplicates_out/SAMEA2051948.merged.sorted.dedupped.bam	SAMEA2051948	chrY
+nice -n 19 ./run_haplotype_caller_ploidy_1.sh	/localdisk/home/bjackso4/rattus_norvegicus_GATK/3_mark_duplicates_out/SAMEA2052187.merged.sorted.dedupped.bam	SAMEA2052187	chrX
+nice -n 19 ./run_haplotype_caller_ploidy_1.sh	/localdisk/home/bjackso4/rattus_norvegicus_GATK/3_mark_duplicates_out/SAMEA2052187.merged.sorted.dedupped.bam	SAMEA2052187	chrY
+nice -n 19 ./run_haplotype_caller_ploidy_1.sh	/localdisk/home/bjackso4/rattus_norvegicus_GATK/3_mark_duplicates_out/SAMEA2052602.merged.sorted.dedupped.bam	SAMEA2052602	chrX
+nice -n 19 ./run_haplotype_caller_ploidy_1.sh	/localdisk/home/bjackso4/rattus_norvegicus_GATK/3_mark_duplicates_out/SAMEA2052602.merged.sorted.dedupped.bam	SAMEA2052602	chrY
+nice -n 19 ./run_haplotype_caller_ploidy_1.sh	/localdisk/home/bjackso4/rattus_norvegicus_GATK/3_mark_duplicates_out/SAMEA2052605.merged.sorted.dedupped.bam	SAMEA2052605	chrX
+nice -n 19 ./run_haplotype_caller_ploidy_1.sh	/localdisk/home/bjackso4/rattus_norvegicus_GATK/3_mark_duplicates_out/SAMEA2052605.merged.sorted.dedupped.bam	SAMEA2052605	chrY
